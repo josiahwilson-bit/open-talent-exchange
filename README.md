@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.webp" alt="Open Talent Exchange — Benjamin Franklin sun" width="100%"></p>
+
 <p align="center"><em>· EST. MMXXVI · SAN DIEGO ·</em></p>
 
 <h1 align="center">O P E N&nbsp;&nbsp;T A L E N T&nbsp;&nbsp;E X C H A N G E</h1>
