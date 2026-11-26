@@ -12,14 +12,17 @@ Capture keeps three fields separate on every card: **interest**, **permission to
 
 ## Match lifecycle
 
-PROPOSED → OWNER_APPROVED → CONFIRMED_BOTH_SIDES → COMPLETED
+PROPOSED → OWNER_APPROVED → CONFIRMED_BOTH_SIDES → SUBMITTED → VERIFIED → ACCEPTED
 
 Side exits: DECLINED (either the owner or a side declines) and EXPIRED (the evidence or the window went stale before confirmation).
 
 - A proposal approves nothing by itself; it orders the owner's review queue.
 - Owner approval binds to the exact named pairing — one offer card, one need card.
 - A match counts only when both sides confirm.
-- Completed matches collect feedback as one thing that worked, one blocker, one question, plus an optional credit line.
+- The volunteer submits the finished work for review; for the current need, the written report.
+- The submission is checked against its sources and the task's stated checks.
+- The owner accepts the verified work, which completes the exchange.
+- Accepted matches collect feedback as one thing that worked, one blocker, one question, plus an optional credit line.
 
 ## Routing
 
