@@ -41,3 +41,14 @@ A talent exchange is a board, not a marketplace. On one side, people offer a ski
 Deviation is the gap between the proposed slot and what actually gets booked. Relationship scaling is read from how long each person waits between steps. Both are measured, never assumed. See [ARCHITECTURE.md](ARCHITECTURE.md).
 
 <p align="center"><sub>OPEN TALENT EXCHANGE · A FETCH FACTORY BOARD · RULES AND ROUTING ONLY</sub></p>
+
+## Contributors
+
+Credit on this board follows one rule: a contributor is listed only after their contribution is accepted, and only with the exact name or handle they confirm.
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
