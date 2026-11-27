@@ -1,0 +1,14 @@
+{
+  "projectName": "open-talent-exchange",
+  "projectOwner": "josiahwilson-bit",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}
